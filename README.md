@@ -1,8 +1,10 @@
 # Trivia Quiz App - Proof of Concept
 
 A modern, interactive trivia quiz application built with Next.js and TypeScript. This POC demonstrates a fully functional quiz component with real-time scoring, streak multipliers, and category-based question management.
+![image](https://github.com/user-attachments/assets/b0188c55-2624-45ba-8465-16f4652356ae)
 
-## 🎯 Overview
+
+## Overview
 
 This proof of concept showcases a comprehensive trivia quiz system with:
 - **Interactive UI** with smooth animations and visual feedback
@@ -11,7 +13,7 @@ This proof of concept showcases a comprehensive trivia quiz system with:
 - **Timer-based gameplay** with customizable time limits per question
 - **Responsive design** optimized for both desktop and mobile
 
-## ✨ Features
+## Features
 
 ### Core Functionality
 - ✅ **Question Display**: Bold, prominent question text with optional images
@@ -28,7 +30,7 @@ This proof of concept showcases a comprehensive trivia quiz system with:
 - 📱 **Responsive Design**: Works seamlessly on all device sizes
 - 🎨 **Modern UI**: Glassmorphism effects with purple/pink gradient theme
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Node.js 18+ 
@@ -47,7 +49,7 @@ This proof of concept showcases a comprehensive trivia quiz system with:
    npm run dev
    \`\`\`
 
-4. **Open your browser** and navigate to `http://localhost:3000`
+4. **Open your browser** and navigate to `(https://v0-app-component.vercel.app/)`
 
 ## 🎮 How to Use
 
@@ -195,23 +197,6 @@ This POC can be extended with:
 - Responsive images with proper loading
 - Smooth animations without layout shifts
 
-## 📱 Browser Support
-
-- ✅ Chrome 90+
-- ✅ Firefox 88+
-- ✅ Safari 14+
-- ✅ Edge 90+
-- ✅ Mobile browsers (iOS Safari, Chrome Mobile)
-
-## 🤝 Contributing
-
-This is a proof of concept. To extend or modify:
-
-1. Fork the project
-2. Create a feature branch
-3. Make your changes
-4. Test thoroughly
-5. Submit a pull request
 
 ## 📄 License
 
